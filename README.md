@@ -146,4 +146,22 @@ Fact table : It will have the data about the transactions.
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowfall data modeling method.
-  
+<img src="https://github.com/usershanks/Business-Insights-360/blob/main/data_model.png" class="center">
+
+### Dashboard designing
+
+Upon receiving the mock-ups as requirements, the team will begin designing the visuals and create metrics as needed.
+
+## Home view
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Products
+- Support
+
