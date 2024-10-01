@@ -166,4 +166,6 @@ In Home view, all the views button will be available. User will land on specific
 - Support
   
   <img src="https://github.com/usershanks/Business-Insights-360/blob/main/home_page.png" class="center">
+  
+## Finance View
 
