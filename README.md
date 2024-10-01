@@ -168,4 +168,6 @@ In Home view, all the views button will be available. User will land on specific
   <img src="https://github.com/usershanks/Business-Insights-360/blob/main/home_page.png" class="center">
   
 ## Finance View
+![Recording_finance_view](https://github.com/user-attachments/assets/d3a7a158-f28d-427f-9992-8eb03d47a6e2)
+
 
