@@ -165,16 +165,5 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
   
-## Home view
-
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
-
-- Info
-- Finance View
-- Sales View
-- Marketing View
-- Supply chain View
-- Executive View
-- Support
-  <img src="[https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png](https://github.com/usershanks/Business-Insights-360/blob/main/home_page.png)" class="center">
+  <img src="https://github.com/usershanks/Business-Insights-360/blob/main/home_page.png" class="center">
 
