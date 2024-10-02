@@ -171,6 +171,19 @@ In Home view, all the views button will be available. User will land on specific
 ![Recording_finance_view](https://github.com/user-attachments/assets/d3a7a158-f28d-427f-9992-8eb03d47a6e2)
 
 ## Sales View
+![sales_view](https://github.com/user-attachments/assets/a542c133-73ed-45db-bb53-b56724b890c8)
 
+## Marketing View
+![marketing_view](https://github.com/user-attachments/assets/1caa0c59-f841-41d3-9b0e-8cce8610aba9)
+
+## Supply Chain View
+![supply chain _view](https://github.com/user-attachments/assets/c49d48cc-95ca-4821-9b46-c1338b65e08e)
+
+## Executive View
+![executive view](https://github.com/user-attachments/assets/701a7b4e-27d7-47ec-a45e-983ad900ebd4)
+
+## Project Outcome
+
+This report enables data-driven decision-making. Additionally, it aids in addressing numerous 'why' questions that arise from various situations.
 
 
