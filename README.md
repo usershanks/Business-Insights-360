@@ -50,13 +50,13 @@ AtliQ Hardware has experienced rapid growth in recent years. To analyze their bu
 
   ## Company’s back ground
 
-AltiQ Hardware has expanded significantly in recent years, establishing a global presence. It is a company that sells computers and computer accessories through three different channels.
+AtliQ Hardware has expanded significantly in recent years, establishing a global presence. It is a company that sells computers and computer accessories through three different channels.
 
 - Retailers
 - Direct
 - Distributors
 
-Recently, the company has incurred an unforeseen loss by opening a store in America, based on surveys, intuition, and some Excel analysis. Moreover, the company's competitors have a robust analytics team to perform analyses and make data-driven decisions. Consequently, AltiQ Hardware has no choice but to build their own analytics team to glean data-driven insights and make informed decisions to better survive in the industry.
+Recently, the company has incurred an unforeseen loss by opening a store in America, based on surveys, intuition, and some Excel analysis. Moreover, the company's competitors have a robust analytics team to perform analyses and make data-driven decisions. Consequently, AtliQ Hardware has no choice but to build their own analytics team to glean data-driven insights and make informed decisions to better survive in the industry.
 
 The project kick-off session is designed to gain a clear understanding of the project's objectives and rationale, as well as to address any questions related to the project..
 
